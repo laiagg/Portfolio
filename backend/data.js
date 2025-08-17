@@ -9,14 +9,19 @@ const data = {
   ],
   projects: [
     { 
-      name: "Proyectos de prueba con SAP", 
-      description: "Una aplicación con fin de experimentar .", 
+      name: "HotelAzul", 
+      description: "Proyecto final de ciclo. Una aplicación web de reservas. Finalizado", 
       link: "" 
     },
     { 
+      name: "HotelAzul con SAP", 
+      description: "Aplicación web con SAP replicando el proyecto HotelAzul. En proceso", 
+      link: "https://github.com/laiagg/HotelAzul-SAP" 
+    },
+    { 
       name: "Portfolio Personal", 
-      description: "Este portfolio ha sido creado con Vue, Node.js y Vite.", 
-      link: "https://github.com/laiagg/mi-portfolio" 
+      description: "Este portfolio ha sido creado con Vue y Node.js. En proceso", 
+      link: "https://github.com/laiagg/portfolio" 
     }
   ]
 };
